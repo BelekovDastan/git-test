@@ -1,5 +1,5 @@
 const API = "http://localhost:8000/products";
-
+console.log("Dosy");
 // ? переменные для инпутов: добавление товаров
 
 let title = document.querySelector("#title");
