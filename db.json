@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "title": "Байыш",
+      "price": "Priceless",
+      "descr": "Tracker",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL1AwvmQvlryQn42vOYsh56Tb3Iu7r0fFDuds3gWJJQNtfN4Mn_7ai1Aj2OJ6wBDwhjaA&usqp=CAU",
+      "id": 1
+    },
+    {
+      "title": "Антон Ше",
+      "price": "Priceless",
+      "descr": "Main-mentor",
+      "image": "https://static.tildacdn.com/tild3530-3935-4132-a438-623733656336/-/resize/504x/sS84tlzzTZI.jpg",
+      "id": 3
+    },
+    {
+      "title": "Саламат",
+      "price": "Priceless",
+      "descr": "Team Leader",
+      "image": "https://pbs.twimg.com/profile_images/559704059729305602/Sm_yWM34_400x400.jpeg",
+      "id": 4
+    },
+    {
+      "title": "Мырзайым",
+      "price": "Priceless",
+      "descr": "Curator",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/wall-art-girl-holding-leaves-in-autumn-saydung89.jpg",
+      "id": 5
+    },
+    {
+      "title": "Дастан",
+      "price": "Priceless",
+      "descr": "Supporter",
+      "image": "https://i.pinimg.com/originals/52/94/09/529409959aa442b6cd891ebad23aadbd.jpg",
+      "id": 6
+    },
+    {
+      "title": "Айзирек",
+      "price": "Priceless",
+      "descr": "Suporter",
+      "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/wall-art-girl-wearing-a-health-care-mask-saydung89.jpg",
+      "id": 7
+    },
+    {
+      "title": "Даниель",
+      "price": "Priceless",
+      "descr": "Suporter",
+      "image": "https://i.pinimg.com/236x/76/bb/1d/76bb1d2af90849ad546ddfbe4aee94d4.jpg",
+      "id": 8
+    },
+    {
+      "title": "Диана",
+      "price": "Priceless",
+      "descr": "Suporter",
+      "image": "https://dspncdn.com/a1/media/692x/33/e5/b4/33e5b47c0d9d2f7aebe8e8ef01d2eb54.jpg",
+      "id": 9
+    },
+    {
+      "title": "Жаннат",
+      "price": "Priceless",
+      "descr": "Support-Leader",
+      "image": "https://img.freepik.com/premium-vector/sensei-logo-vector_8124-9.jpg?w=2000",
+      "id": 10
+    }
+  ]
+}
